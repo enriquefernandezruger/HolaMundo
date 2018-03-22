@@ -8,7 +8,7 @@ public class HolaMundo {
 		System.out.println("Hola Mundo");
 		JOptionPane.showMessageDialog(null, "Hola Mundo");
 		
-		System.out.println("Bienvenidos desde Cañada");
+		System.out.println("Bienvenidos desde Cañada Rosal");
 
 	}
 
